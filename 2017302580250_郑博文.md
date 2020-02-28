@@ -1,0 +1,8 @@
+1.ping局域网中的另一台计算机
+
+ ![avatar]( https://github.com/Barneypoi/imagereference/blob/master/ping.png ) 
+
+2.tracert一个已知的服务器
+
+ ![avatar]( https://github.com/Barneypoi/imagereference/blob/master/tracert.png ) 
+
